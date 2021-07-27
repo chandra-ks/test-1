@@ -6,9 +6,8 @@ int mul(){
 System.out.println("Mul method..!!");
 }
 
-int div(){
 System.out.println("Div method..!!");
-}
+System.out.println("Div method..!!");
 
 
 System.out.println("Mul method..!!");
