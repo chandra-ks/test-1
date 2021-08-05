@@ -28,4 +28,8 @@ System.out.println("Mul method..!!");
 System.out.println("Mul method..!!");
 System.out.println("Mul method..!!");
 System.out.println("Mul method..!!");
+
+System.out.println("Mul method..!!");
+System.out.println("Mul method..!!");
+System.out.println("Mul method..!!");
   
